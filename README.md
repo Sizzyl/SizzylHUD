@@ -1,2 +1,2 @@
 # SizzylHUD
-Sizzyl's Team Fortress 2 (tf2) Heads Up Display (HUD)
+Sizzyl's Team Fortress 2 Heads Up Display (TF2 HUD)
