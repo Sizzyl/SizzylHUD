@@ -676,10 +676,10 @@
 		"item_tall"				"24"
 
 		"show_dead_icon"		"1"
-		"dead_xpos"				"1"
+		"dead_xpos"				"150"
 		"dead_ypos"				"0"
-		"dead_wide"				"16"
-		"dead_tall"				"16"
+		"dead_wide"				"24"
+		"dead_tall"				"24"
 
 		"show_voice_icon"		"1"
 		"icon_ypos"				"0"
