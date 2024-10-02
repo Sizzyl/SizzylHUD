@@ -542,9 +542,8 @@
 		"fieldName" "HudCloseCaption"
 		"visible"    "1"
 		"enabled"    "1"
-		"xpos"        "r225"
-		"xpos_minmode"        "c130"
-		"ypos"        "220"
+		"xpos"        "10"
+		"ypos"        "340"
 		"wide"        "200"
 		"tall"        "136"
 	
@@ -669,25 +668,32 @@
 		"fieldName"				"HudVoiceStatus"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"r145" [$WIN32]
+		"xpos"					"r180" [$WIN32]
 		"ypos"					"70" [$WIN32]
-		"xpos"					"r210" [$X360]
-		"ypos"					"0" [$X360]
-		"wide"					"145"
+		"wide"					"300"
 		"tall"					"400"
-		"item_wide"				"135"
-		"show_avatar"			"0"
+		"item_wide"				"170"
+		"item_tall"				"24"
+
 		"show_dead_icon"		"1"
 		"dead_xpos"				"1"
 		"dead_ypos"				"0"
 		"dead_wide"				"16"
 		"dead_tall"				"16"
+
 		"show_voice_icon"		"1"
 		"icon_ypos"				"0"
-		"icon_xpos"				"15"
-		"icon_tall"				"16"
-		"icon_wide"				"16"
-		"text_xpos"				"33"
+		"icon_xpos"				"0"
+		"icon_tall"				"24"
+		"icon_wide"				"24"
+
+		"show_avatar"			"1"
+		"avatar_xpos"			"26"
+		"avatar_ypos"			"1"
+		"avatar_wide"			"22"
+		"avatar_tall"			"22"
+
+		"text_xpos"				"50"
 	}
 	"HudHintDisplay"
 	{
