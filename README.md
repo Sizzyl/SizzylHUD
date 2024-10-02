@@ -10,4 +10,4 @@ That is likely because of one of the many commands in my autoexecs or something 
 - [Tekunotri](https://github.com/tekunotri/sizzylhud) for creating most of the initial edits to this HUD and helping with the rest of the edits (and allowing me to add those edits to this git repo).
 - [JarateKing's TF2 HUD Reference](https://github.com/JarateKing/TF2-Hud-Reference/blob/master/1-APPENDIX/Positioning.md) - for helping me understand how positioning works
 - [PrintHUD](https://gamebanana.com/mods/498988) for helping me understand how to configure voice chat location/sizes
-- [CakeTaco](https://steamcommunity.com/id/Caketaco/) for helping me figure out how to edit captions.
+- [Caketaco](https://steamcommunity.com/id/Caketaco/) for helping me figure out how to edit captions.
