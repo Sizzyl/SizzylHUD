@@ -688,7 +688,7 @@
 		"icon_wide"				"24"
 
 		"show_avatar"			"1"
-		"avatar_xpos"			"26"
+		"avatar_xpos"			"12"
 		"avatar_ypos"			"1"
 		"avatar_wide"			"22"
 		"avatar_tall"			"22"
