@@ -12,3 +12,21 @@ That is likely because of one of the many commands in my autoexecs or something 
 - [JarateKing's TF2 HUD Reference](https://github.com/JarateKing/TF2-Hud-Reference/blob/master/2-LISTS/Filelist.md) - for helping me understand what files contain whaat information
 - [PrintHUD](https://gamebanana.com/mods/498988) for helping me understand how to configure voice chat location/sizes
 - [Caketaco](https://steamcommunity.com/id/Caketaco/) for helping me figure out how to edit captions.
+
+## Known Issues/Planned Features
+- Meet your match screen is gone? (the thing that shows up when game starts showing players)
+- No respawn timer
+- In-Game customization options, such as moving elements to corner, moving chat position, caption toggle, 'streamer mode', etc.
+- Single click between backpack/loadout
+- Single click to access ccommunity servers/create a server
+- Single clicks for each gamemode? not sure how possible this is haven't seen it done before
+- Borders in item inspect similar to KBNHud
+- K/D/A in semi-weird places, will move later
+- Be able to turn character in tab menu (similar to on character select in middle mann already), this was done in coolhud
+- Transparent background on backpack/loadouts (like in half life 2 hud) <- will have to see this in action, not sure if it looks as good as i'd think
+- Written instructions in the far corner of loadout screen giving instructions on the cool custom stuff (like in center hud) is nice
+- Button for 'sound fix (snd_restart)'
+- Button for 'invisible player fix (record fix; stop)
+- Button for 'demoui'/'demoui2'
+- Button for 'vr mode toggle (cl_first_person_uses_world_mod­el 1/0)' [fixes demoman sheilds]
+- Button for mastercomms quickplay is a neat addition if it can look nice somehow
