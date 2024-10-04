@@ -42,4 +42,36 @@
 		"subimage"		"glyph_alert"
 		"tooltip"		"#MMenu_ReportPlayer"
 	}
+	"SoundFixButton"
+	{
+		"label"			""
+		"command"		"engine snd_restart"
+		"OnlyInGame"	"0"
+		"subimage"		"glyph_alert"
+		"tooltip"		"Fix Sound"
+	}
+	"InvisFixButton"
+	{
+		"label"			""
+		"command"		"engine record fix; stop"
+		"OnlyInGame"	"0"
+		"subimage"		"glyph_alert"
+		"tooltip"		"Fix Invis Players"
+	}
+	"SheildFixButton"
+	{
+		"label"			""
+		"command"		"engine toggle cl_first_person_uses_world_mod­el"
+		"OnlyInGame"	"0"
+		"subimage"		"glyph_alert"
+		"tooltip"		"Fix Sheild (VR Toggle)"
+	}
+	"DemoUIButton"
+	{
+		"label"			""
+		"command"		"engine demoui"
+		"OnlyInGame"	"0"
+		"subimage"		"glyph_alert"
+		"tooltip"		"DemoUI"
+	}
 }
