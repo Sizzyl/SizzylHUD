@@ -55,7 +55,7 @@
 		"label"			""
 		"command"		"engine record fix; stop"
 		"OnlyInGame"	"0"
-		"subimage"		"glpyh_workshop_view"
+		"subimage"		"glyph_quest_icon"
 		"tooltip"		"Fix Invis Players"
 	}
 	"SheildFixButton"
@@ -71,7 +71,7 @@
 		"label"			""
 		"command"		"engine demoui"
 		"OnlyInGame"	"0"
-		"subimage"		"glyph_quest_icon"
+		"subimage"		"glyph_workshop_edit"
 		"tooltip"		"DemoUI"
 	}
 }
