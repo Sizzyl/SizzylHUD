@@ -61,7 +61,7 @@
 	"SheildFixButton"
 	{
 		"label"			""
-		"command"		"engine toggle cl_first_person_uses_world_mod­el"
+		"command"		"engine toggle cl_first_person_uses_world_model"
 		"OnlyInGame"	"0"
 		"subimage"		"glyph_alert"
 		"tooltip"		"Fix Sheild (VR Toggle)"

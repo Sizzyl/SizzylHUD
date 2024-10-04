@@ -1540,7 +1540,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ReportPlayerButton"
-		"xpos"			"c-27"
+		"xpos"			"c66"
 		"ypos"			"437"
 		"zpos"			"11"
 		"wide"			"30"
@@ -1609,7 +1609,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CallVoteButton"
-		"xpos"			"c-5"
+		"xpos"			"c88"
 		"ypos"			"437"
 		"zpos"			"12"
 		"wide"			"25"
@@ -1672,11 +1672,12 @@
 			}
 		}
 	}
+
 	"MutePlayersButton"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MutePlayersButton"
-		"xpos"			"c18"
+		"xpos"			"c110"
 		"ypos"			"437"
 		"zpos"			"12"
 		"wide"			"25"
@@ -1744,7 +1745,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RequestCoachButton"
-		"xpos"			"c40"
+		"xpos"			"c132"
 		"ypos"			"437"
 		"zpos"			"12"
 		"wide"			"25"
