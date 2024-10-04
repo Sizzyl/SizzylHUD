@@ -47,7 +47,7 @@
 		"label"			""
 		"command"		"engine snd_restart"
 		"OnlyInGame"	"0"
-		"subimage"		"glyph_alert"
+		"subimage"		"glyph_muted"
 		"tooltip"		"Fix Sound"
 	}
 	"InvisFixButton"
@@ -55,7 +55,7 @@
 		"label"			""
 		"command"		"engine record fix; stop"
 		"OnlyInGame"	"0"
-		"subimage"		"glyph_alert"
+		"subimage"		"glpyh_workshop_view"
 		"tooltip"		"Fix Invis Players"
 	}
 	"SheildFixButton"
@@ -63,7 +63,7 @@
 		"label"			""
 		"command"		"engine toggle cl_first_person_uses_world_model"
 		"OnlyInGame"	"0"
-		"subimage"		"glyph_alert"
+		"subimage"		"glyph_vr"
 		"tooltip"		"Fix Sheild (VR Toggle)"
 	}
 	"DemoUIButton"
@@ -71,7 +71,7 @@
 		"label"			""
 		"command"		"engine demoui"
 		"OnlyInGame"	"0"
-		"subimage"		"glyph_alert"
+		"subimage"		"glyph_quest_icon"
 		"tooltip"		"DemoUI"
 	}
 }
