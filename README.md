@@ -15,7 +15,6 @@ That is likely because of one of the many commands in my autoexecs or something 
 
 ## Known Issues/Planned Features
 - Meet your match screen is gone? (the thing that shows up when game starts showing players)
-- No respawn timer unless you reload hud
 - In-Game customization options, such as moving elements to corner, moving chat position, caption toggle, 'streamer mode', etc.
 - Single click between backpack/loadout
 - Single click to access ccommunity servers/create a server
