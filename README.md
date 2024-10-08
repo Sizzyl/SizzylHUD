@@ -12,10 +12,10 @@ That is likely because of one of the many commands in my autoexecs or something 
 - [JarateKing's TF2 HUD Reference](https://github.com/JarateKing/TF2-Hud-Reference/blob/master/2-LISTS/Filelist.md) - for helping me understand what files contain whaat information
 - [PrintHUD](https://gamebanana.com/mods/498988) for helping me understand how to configure voice chat location/sizes
 - [Caketaco](https://steamcommunity.com/id/Caketaco/) for helping me figure out how to edit captions.
+- [JofreProblem](https://github.com/Jofre-Problem/lionHUD) for helping me import the quick loadout swap + HQ character loadout icons he made for lionHUD into this HUD
 
 ## Known Issues/Planned Features
 - In-Game customization options, such as moving elements to corner, moving chat position, caption toggle, 'streamer mode', etc.
-- Single click between backpack/loadout
 - Single click to access ccommunity servers/create a server
 - Single clicks for each gamemode? not sure how possible this is haven't seen it done before
 - Borders in item inspect similar to KBNHud
