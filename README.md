@@ -21,6 +21,3 @@ That is likely because of one of the many commands in my autoexecs or something 
 - Borders in item inspect similar to KBNHud
 - K/D/A in semi-weird places, will move later
 - Be able to turn character in tab menu (similar to on character select in middle mann already), this was done in coolhud
-- Transparent background on backpack/loadouts (like in half life 2 hud) <- will have to see this in action, not sure if it looks as good as i'd think
-- Written instructions in the far corner of loadout screen giving instructions on the cool custom stuff (like in center hud) is nice
-- Button for mastercomms quickplay is a neat addition if it can look nice somehow
