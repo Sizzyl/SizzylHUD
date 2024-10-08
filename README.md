@@ -19,6 +19,7 @@ That is likely because of one of the many commands in my autoexecs or something 
 - Chat in top left corner with build menu in middle left to stay out of your immediate vision
 - Easy to read teammate health/name info at top of screen
 - Easier to read voice chat names / profile pics
+- Transparent match start/end screens
 - More smaller changes that aren't documented here
 
 ## Credits/Inspirations
