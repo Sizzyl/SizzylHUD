@@ -23,6 +23,7 @@ That is likely because of one of the many commands in my autoexecs or something 
 - Easy to read teammate health/name info at top of screen
 - Easier to read voice chat names / profile pics
 - Transparent match start/end screens
+- Turn character on both character select and tab menu
 - More smaller changes that aren't documented here
 
 ## Credits/Inspirations
