@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"blueteam"
-		"xpos"			"c-30"
+		"xpos"			"cs-0.5-25"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"60"
@@ -38,7 +38,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"count"
 			"xpos"			"23"
-			"ypos"			"-700"
+			"ypos"			"7"
 			"zpos"			"2"
 			"wide"			"30"
 			"tall"			"25"
@@ -55,8 +55,8 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"countshadow"
-			"xpos"			"24"
-			"ypos"			"8"
+			"xpos"			"-1"
+			"ypos"			"-1"
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"25"
@@ -68,6 +68,7 @@
 			"labelText"		"%blue_alive%"
 			"textAlignment"	"center"
 			"fgcolor"		"Black"
+			"pin_to_sibling"	"count"
 		}
 		
 		"playerimage"
@@ -90,8 +91,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"redteam"
-		"xpos"			"c-30"
-		"ypos"			"21"
+		"xpos"			"cs-0.5+25"
+		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"60"
 		"tall"			"30"
@@ -141,8 +142,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"countshadow"
-			"xpos"			"24"
-			"ypos"			"8"
+			"xpos"			"-1"
+			"ypos"			"-1"
 			"zpos"			"1"
 			"wide"			"30"
 			"tall"			"25"
@@ -154,6 +155,7 @@
 			"labelText"		"%red_alive%"
 			"textAlignment"	"center"
 			"fgcolor"		"Black"
+			"pin_to_sibling" "count"
 		}
 	
 		"playerimage"

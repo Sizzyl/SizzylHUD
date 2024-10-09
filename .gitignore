@@ -1,6 +1,4 @@
-./sound/sound.cache
-.sound/sound.cache
-sound.cache
-desktop.ini
-.bak
+*.ini
+*.bak
 .vscode/
+
