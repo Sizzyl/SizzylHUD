@@ -41,4 +41,3 @@ That is likely because of one of the many commands in my autoexecs or something 
 - In-Game customization options, such as moving elements to corner, moving chat position, caption toggle, 'streamer mode', etc.
 - Single click to access ccommunity servers/create a server
 - Single clicks for each gamemode? not sure how possible this is haven't seen it done before
-- Borders in item inspect similar to KBNHud
