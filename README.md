@@ -6,6 +6,10 @@ Sizzyl's Team Fortress 2 Heads Up Display (TF2 HUD) is installed like any other 
 
 That is likely because of one of the many commands in my autoexecs or something from a mod I use. You can download those from [my non-HUD repo](https://github.com/Sizzyl/SizzylTF2).
 
+## This HUD isn't working on linux!!!
+
+To make this HUD work on linux, make sure the main folder is lower case. For whatever reason, having an upper-case folder name (such as "SizzylHUD-main" instead of "sizzylhud-main") doesn't work on linux TF2.
+
 ## Some HUD Features
 
 - Stock TF2-like UI
