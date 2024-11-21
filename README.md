@@ -43,5 +43,5 @@ To make this HUD work on linux, make sure the main folder is lower case. For wha
 
 ## Features that'd be cool to have but i'm too lazy to figure out (will merge pull requests that fix these things)
 - In-Game customization options, such as moving elements to corner, moving chat position, caption toggle, 'streamer mode', etc.
-- Single click to access ccommunity servers/create a server
+- Single click to access community servers/create a server
 - Single clicks for each gamemode? not sure how possible this is haven't seen it done before
