@@ -4,7 +4,7 @@ Sizzyl's Team Fortress 2 Heads Up Display (TF2 HUD) is installed like any other 
 
 ## This doesn't look like Sizzyl's game in the videos!!!
 
-That is likely because of one of the many commands in my autoexecs or something from a mod I use. You can download those from [my non-HUD repo](https://github.com/Sizzyl/SizzylTF2).
+That is likely because of one of the many commands in Sizzyl's autoexecs or mods that he uses.
 
 ## This HUD isn't working on linux!!!
 
