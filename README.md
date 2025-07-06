@@ -2,6 +2,9 @@
 
 Sizzyl's Team Fortress 2 Heads Up Display (TF2 HUD) is installed like any other custom HUD. All you have to do is hit the green code button, then 'Download ZIP'. From here, all you need to do is unzip this file with any unzipping tool such as [7zip](https://www.7-zip.org/) and then drag that final folder into your Team Fortress 2 custom folder. To get to this folder, just right click TF2 in your steam library and then right click it and hit 'properties', go to 'installed files', then hit 'browse'. From here, if you go into the 'tf' folder you will see a 'custom' folder where the unzipped form of this HUD will go into.
 
+## How to make changes/propose changes
+Fork this repository, make your changes, send a pull request with the changes/fixes you've made, then contact techno if it takes too long to be approved/denied.
+
 ## This doesn't look like Sizzyl's game in the videos!!!
 
 That is likely because of one of the many commands in Sizzyl's autoexecs or mods that he uses.
