@@ -35,6 +35,7 @@ To make this HUD work on linux, make sure the main folder is lower case. For wha
 
 ## Credits/Inspirations
 
+- [Sizzyl](https://youtube.com/c/sizzyl) for most of the edits not done by techno
 - Captions (which have been renamed and modified very heavily) from [Clovervidia](https://github.com/clovervidia/clovervidias-captions)
 - Base HUD editing ontop of was [Middle Mann HUD](https://github.com/Vexcenot/-Middle-Mann) by Vexcenot and techno (with permission).
 - [techno](https://github.com/tekunotri/) for creating most of the initial edits to this HUD and helping with the rest of the edits (and allowing me to add those edits to this git repo).
