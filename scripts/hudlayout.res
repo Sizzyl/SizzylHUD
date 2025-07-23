@@ -670,6 +670,7 @@
 		"enabled"				"1"
 		"xpos"					"r180" [$WIN32]
 		"ypos"					"70" [$WIN32]
+		"zpos"					"2"
 		"wide"					"300"
 		"tall"					"400"
 		"item_wide"				"170"
