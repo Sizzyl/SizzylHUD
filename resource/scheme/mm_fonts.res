@@ -1140,6 +1140,7 @@
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"dropshadow" 	"1"
+				"outline" 	"1"
 			}
 		}
 		"CloseCaption_Italic"
@@ -1153,6 +1154,7 @@
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"dropshadow" 	"1"
+				"outline" 	"1"
 			}
 		}
 		"CloseCaption_Bold"
@@ -1165,6 +1167,7 @@
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"dropshadow" 	"1"
+				"outline" 	"1"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -1178,6 +1181,7 @@
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"dropshadow" 	"1"
+				"outline" 	"1"
 			}
 		}
 		"CloseCaption_Small"
@@ -1190,6 +1194,7 @@
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"dropshadow" 	"1"
+				"outline" 	"1"
 			}
 		}
 
