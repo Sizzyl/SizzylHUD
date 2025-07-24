@@ -1139,6 +1139,7 @@
 				"tall_hidef"	"24"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"dropshadow" 	"1"
 			}
 		}
 		"CloseCaption_Italic"
@@ -1151,6 +1152,7 @@
 				"weight"	"500"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"dropshadow" 	"1"
 			}
 		}
 		"CloseCaption_Bold"
@@ -1162,6 +1164,7 @@
 				"tall_hidef"	"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"dropshadow" 	"1"
 			}
 		}
 		"CloseCaption_BoldItalic"
@@ -1174,6 +1177,7 @@
 				"weight"	"900"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"dropshadow" 	"1"
 			}
 		}
 		"CloseCaption_Small"
@@ -1185,6 +1189,7 @@
 				"tall_hidef"	"16"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"dropshadow" 	"1"
 			}
 		}
 
