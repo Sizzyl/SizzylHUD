@@ -1137,7 +1137,7 @@
 				"name"		"Tahoma"
 				"tall"		"16"
 				"tall_hidef"	"24"
-				"weight"	"500"
+				"weight"	"300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"outline" 	"1"
 			}
@@ -1149,7 +1149,7 @@
 				"name"		"Tahoma"
 				"tall"		"16"
 				"tall_hidef"	"24"
-				"weight"	"500"
+				"weight"	"300"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"outline" 	"1"
@@ -1162,7 +1162,7 @@
 				"name"		"Tahoma"
 				"tall"		"16"
 				"tall_hidef"	"24"
-				"weight"	"900"
+				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"outline" 	"1"
 			}
@@ -1174,7 +1174,7 @@
 				"name"		"Tahoma"
 				"tall"		"16"
 				"tall_hidef"	"24"
-				"weight"	"900"
+				"weight"	"600"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"outline" 	"1"
@@ -1187,7 +1187,7 @@
 				"name"		"Tahoma"
 				"tall"		"8"
 				"tall_hidef"	"16"
-				"weight"	"900"
+				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"outline" 	"1"
 			}
