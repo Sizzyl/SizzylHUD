@@ -19,6 +19,7 @@ To make this HUD work on linux, make sure the main folder is lower case. For wha
 - Easily navigatable menus, such as single click class swaps on loadout screen
 - Centralized essential in-game HUD elements while keeping extra info to the edges of the screen
 - Animated loading screen
+- Better kill icons
 - Friend list toggle
 - Custom captions that are nicely colored and competitive-centered
 - Press 'A' and 'D' to navigate quickly through backpack
@@ -46,6 +47,7 @@ To make this HUD work on linux, make sure the main folder is lower case. For wha
 - [PrintHUD](https://gamebanana.com/mods/498988) for helping me understand how to configure voice chat location/sizes
 - [Caketaco](https://steamcommunity.com/id/Caketaco/) for helping me figure out how to edit captions and recompile them.
 - [JofreProblem](https://github.com/Jofre-Problem/lionHUD) for helping me import the quick loadout swap + HQ character loadout icons he made for lionHUD into this HUD
+- [LennyFaic](https://gamebanana.com/members/1752121) for the [consistent kill icon mod](https://gamebanana.com/mods/591386) (used with written permission).
 - [AkujiVT](https://gamebanana.com/members/2017711) for help with script to remove post-game feedback popup
 
 ## Features that'd be cool to have but i'm too lazy to figure out (will merge pull requests that fix these things)
