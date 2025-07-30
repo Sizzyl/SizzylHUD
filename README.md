@@ -46,6 +46,7 @@ To make this HUD work on linux, make sure the main folder is lower case. For wha
 - [PrintHUD](https://gamebanana.com/mods/498988) for helping me understand how to configure voice chat location/sizes
 - [Caketaco](https://steamcommunity.com/id/Caketaco/) for helping me figure out how to edit captions and recompile them.
 - [JofreProblem](https://github.com/Jofre-Problem/lionHUD) for helping me import the quick loadout swap + HQ character loadout icons he made for lionHUD into this HUD
+- [AkujiVT](https://gamebanana.com/members/2017711) for help with script to remove post-game feedback popup
 
 ## Features that'd be cool to have but i'm too lazy to figure out (will merge pull requests that fix these things)
 - In-Game customization options, such as moving elements to corner, moving chat position, caption toggle, 'streamer mode', etc.
