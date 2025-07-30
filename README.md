@@ -18,6 +18,7 @@ To make this HUD work on linux, make sure the main folder is lower case. For wha
 - Stock TF2-like UI
 - Easily navigatable menus, such as single click class swaps on loadout screen
 - Centralized essential in-game HUD elements while keeping extra info to the edges of the screen
+- Animated loading screen
 - Friend list toggle
 - Custom captions that are nicely colored and competitive-centered
 - Press 'A' and 'D' to navigate quickly through backpack
@@ -38,6 +39,7 @@ To make this HUD work on linux, make sure the main folder is lower case. For wha
 - [Sizzyl](https://youtube.com/c/sizzyl) for most of the edits not done by techno
 - Captions (which have been renamed and modified very heavily) from [Clovervidia](https://github.com/clovervidia/clovervidias-captions)
 - Base HUD editing ontop of was [Middle Mann HUD](https://github.com/Vexcenot/-Middle-Mann) by Vexcenot and techno (with permission).
+- [Animated loading screen](https://gamebanana.com/mods/462858) from Vexcenot (with permission).
 - [techno](https://github.com/tekunotri/) for creating most of the initial edits to this HUD and helping with the rest of the edits (and allowing me to add those edits to this git repo).
 - [JarateKing's TF2 HUD Reference Positioning](https://github.com/JarateKing/TF2-Hud-Reference/blob/master/1-APPENDIX/Positioning.md) - for helping me understand how positioning works
 - [JarateKing's TF2 HUD Reference File List](https://github.com/JarateKing/TF2-Hud-Reference/blob/master/2-LISTS/Filelist.md) - for helping me understand what files contain what information
